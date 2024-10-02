@@ -1,4 +1,4 @@
 - 👋 Me chamo Gabriel Fernandes Alves
 - 👨‍🎓 Aprendiz em desenvolvimento de software
 - 👨‍💻 Tenho 14 anos de idade
-- 🏋️‍♂️ Livre para propostas
+- 🏋️‍♂️ Confira os meus projetos
